@@ -8,6 +8,7 @@ Stable tag: 1.0.0
 Requires PHP: 7.4  
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
+Donate link: https://khalihossain.com.bd  
 
 Find broken external links in your WordPress website before your visitors do. A lightweight plugin that scans your content for external links and identifies broken, redirected, or unavailable URLs.
 
