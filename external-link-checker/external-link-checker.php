@@ -5,7 +5,7 @@
  * Description: Find broken external links in your WordPress website before your visitors do. A lightweight plugin that scans your content for external links and identifies broken, redirected, or unavailable URLs.
  * Version: 1.0.0
  * Author: Md. Khalid Hossain
- * Author URI: https://khalihossain.com.bd
+ * Author URI: https://khalidhossain.com.bd
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: external-link-checker
