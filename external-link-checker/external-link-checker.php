@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: External Link Checker
- * Plugin URI: https://example.com/external-link-checker
+ * Plugin URI: https://github.com/khalihossain/external-link-checker
  * Description: Find broken external links in your WordPress website before your visitors do. A lightweight plugin that scans your content for external links and identifies broken, redirected, or unavailable URLs.
  * Version: 1.0.0
  * Author: Md. Khalid Hossain
