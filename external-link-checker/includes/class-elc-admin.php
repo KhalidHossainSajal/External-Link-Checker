@@ -51,6 +51,7 @@ class ELC_Admin {
         add_action('wp_ajax_elc_clear_results', array($this, 'ajax_clear_results'));
         add_action('wp_ajax_elc_add_excluded_domain', array($this, 'ajax_add_excluded_domain'));
         add_action('wp_ajax_elc_remove_excluded_domain', array($this, 'ajax_remove_excluded_domain'));
+        add_action('wp_ajax_elc_load_links', array($this, 'ajax_load_links'));
     }
 
     /**
